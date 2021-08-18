@@ -1,0 +1,17 @@
+iframe {
+    height: 100px;
+    width: 150px;
+}
+
+.lightning-card {
+    height: 100px;
+    width: 150px;
+}
+
+a {
+    padding: 10px;
+}
+
+p {
+    padding: 15px;
+}
